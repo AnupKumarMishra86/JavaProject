@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1546845993159
+Build-Jdk: 11.0.1
+Built-By: anup.b.kumar.mishra
+Bundle-Description: Libs for spring context and testing support
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: java-project
+Bundle-SymbolicName: com.mkyong.hashing.java-project
+Bundle-Version: 3.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: packaging1;uses:="javax.annotation,com.google.common.bas
+ e,org.springframework.context.annotation,org.slf4j";version="3.0.0"
+Import-Package: com.google.common.base;version="[15.0,16)",javax.annotat
+ ion,org.slf4j;version="[1.7,2)",org.springframework.context.annotation
+Originally-Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.50.0
