@@ -1,0 +1,28 @@
+-classpath
+'D:/Java_sample_project/JavaProject/java-project/target/classes;C:/Users/anup.mishra/.m2/repository/org/springframework/spring-beans/3.2.5.RELEASE/spring-beans-3.2.5.RELEASE.jar;C:/Users/anup.mishra/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar;C:/Users/anup.mishra/.m2/repository/org/springframework/spring-expression/3.2.5.RELEASE/spring-expression-3.2.5.RELEASE.jar;C:/Users/anup.mishra/.m2/repository/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar;C:/Users/anup.mishra/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar;C:/Users/anup.mishra/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/anup.mishra/.m2/repository/com/github/akiraly/reusable-poms/ver4j/3/ver4j-3.jar;C:/Users/anup.mishra/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/anup.mishra/.m2/repository/commons-codec/commons-codec/1.8/commons-codec-1.8.jar;C:/Users/anup.mishra/.m2/repository/org/springframework/spring-aop/3.2.5.RELEASE/spring-aop-3.2.5.RELEASE.jar;C:/Users/anup.mishra/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar;C:/Users/anup.mishra/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar;C:/Users/anup.mishra/.m2/repository/org/springframework/spring-context/3.2.5.RELEASE/spring-context-3.2.5.RELEASE.jar;C:/Users/anup.mishra/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar;C:/Users/anup.mishra/.m2/repository/org/springframework/spring-core/3.2.5.RELEASE/spring-core-3.2.5.RELEASE.jar;C:/Users/anup.mishra/.m2/repository/com/google/code/findbugs/jsr305/2.0.2/jsr305-2.0.2.jar;C:/Users/anup.mishra/.m2/repository/com/google/guava/guava/15.0/guava-15.0.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'D:/Java_sample_project/JavaProject/java-project/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2013&#x2013;2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Java_sample_project/JavaProject/java-project/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'java-project 3 API'
+-link
+'http://docs.oracle.com/javase/7/docs/api'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'D:/Java_sample_project/JavaProject/java-project/target/javadoc-bundle-options'
+-notimestamp
+-use
+-version
+-windowtitle
+'java-project 3 API'
